@@ -1,0 +1,41 @@
+.info p {
+    margin:0;
+    padding:0;
+    color: black;
+    margin-left: 20px;
+    font-size: 24px;
+    display: i;
+    line-height: 30px;
+    display: inline;
+    text-align: left;
+}
+
+#container{
+    width: 710px;
+}
+.header 
+{
+    margin-left: 150px;
+    color: blue;
+
+}
+.categories
+{
+    width: 200px;
+    float: left;
+    height: 300px;
+    text-align: right;
+    font-size: 20px;
+    padding-right: 5px;
+    font-weight: bold;
+}
+.data
+{
+    
+    width: 500px;
+    float: right;
+    height: 300px;
+    text-align: left;
+    font-size: 20px;
+}
+
